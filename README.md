@@ -43,3 +43,24 @@ traffic-sign-recognition/
 ├── my_model.h5
 ├── traffic_classifier.h5
 └── README.md
+
+## How to Run
+
+Install the required libraries:
+
+```bash
+pip install numpy pandas matplotlib opencv-python tensorflow pillow scikit-learn keras
+```
+
+Train the model:
+
+```bash
+python traffic_classifier.py
+```
+
+Run the GUI:
+
+```bash
+python gui.py
+```
+```
