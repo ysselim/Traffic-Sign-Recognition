@@ -271,10 +271,3 @@ Speed limit (50km/h)
 - Add prediction history
 - Support drag-and-drop image upload
 
-## Author
-
-Created by Donya.
-
-## License
-
-This project is for educational purposes.
